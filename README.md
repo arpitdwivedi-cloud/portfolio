@@ -39,7 +39,7 @@ Welcome! I’m Arpit Dwivedi, a Senior MuleSoft Developer with 4+ years of exper
 
 ## 📬 Contact
 
-- **Email:** arpitdwivedi168@gmail.com
+- **Email:** dwivediarpit66@gmail.com
 - **LinkedIn:** [linkedin.com/in/arpit-dwivedi8429](https://linkedin.com/in/arpit-dwivedi8429)
 
 ---
